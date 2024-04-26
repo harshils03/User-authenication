@@ -189,8 +189,8 @@ Press 2 to login
 
 
 
-# main()
-forgot_pass()
+main()
+# forgot_pass()
 # verify_login()  
 # add_data()
 
