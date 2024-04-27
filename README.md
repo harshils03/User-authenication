@@ -20,4 +20,3 @@ Developed a command-line user authentication system using Python and MySQL for s
 - Enhance user interface for a more user-friendly experience.
 - Implement session management for improved security and usability.
 
-Including this project on your resume can demonstrate your proficiency in Python programming, database management, and your ability to develop secure and user-friendly applications. It also showcases your problem-solving skills and attention to security considerations.
